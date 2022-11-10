@@ -11,7 +11,7 @@ set more off
 
 
 * GLOBALS
-global repo = "/Users/Erin/Documents/Teachers College/2022 3.Fall/Field Experiments/Replication Project/Cash_and_Childhood_Development_Replication"
+global repo = "/Users/Erin/Documents/GitHub/GR5760_replication"
 cd $repo 
 
 use "$repo/macoursetal_main", clear 
